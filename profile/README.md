@@ -12,14 +12,14 @@
 
 ---
 
-<div align="center">
-  <a href="https://agentiumlabs.codes" target="_blank">
+<div align="center" style="display:flex;gap:10px;justify-content:center;">
+  <a href="https://agentiumlabs.codes" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Website-Agentiumlabs.codes-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/company/agentium-labs/?viewAsMember=true" target="_blank">
+  <a href="https://www.linkedin.com/company/agentium-labs/?viewAsMember=true" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Agentium%20Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/agentiumlabs" target="_blank">
+  <a href="https://x.com/agentiumlabs" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </div>
