@@ -16,7 +16,7 @@
   <a href="https://agentiumlabs.codes" target="_blank">
     <img src="https://img.shields.io/badge/Website-Agentiumlabs.codes-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/company/agentiumlabs](https://www.linkedin.com/company/agentium-labs/?viewAsMember=true" target="_blank">
+  <a href="https://www.linkedin.com/company/agentium-labs/?viewAsMember=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Agentium%20Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/agentiumlabs" target="_blank">
