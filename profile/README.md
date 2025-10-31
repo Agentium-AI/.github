@@ -5,7 +5,7 @@
 <h3 align="center">Building the Operating System for Agentic Enterprises</h3>
 
 <p align="center">
-  Agentium Labs is building the operating system for agentic enterprises, where autonomous systems reason, act, and collaborate like human teams.<br>
+  Agentium Labs is building the operating system for agentic enterprises, where autonomous systems reason, act, and collaborate.<br>
   We engineer intelligent infrastructures that turn data and workflows into self-organizing, decision-making networks.<br>
   Our vision: a programmable world where intelligence runs on its own network of agents, adaptive, trustworthy, and infinitely scalable.
 </p>
